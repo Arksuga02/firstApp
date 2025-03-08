@@ -4,7 +4,7 @@ import reactLogo from "./assets/react.svg";
 import "./App.css";
 
 function App() {
-  return <div>Hello this is the base for the APP</div>;
+  return <div>This is the main branch of the git of APP</div>;
 }
 
 export default App;
